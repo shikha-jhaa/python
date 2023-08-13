@@ -1,0 +1,5 @@
+name ="shikha"
+ for i in name:
+ 
+ 
+ print(i)

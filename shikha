@@ -1,0 +1,5 @@
+def welcome():
+    print("hey welcome from shikha")
+    print(__name___) 
+if '__name___' =="__main__":
+    welcome()                              
